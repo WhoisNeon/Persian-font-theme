@@ -1,5 +1,6 @@
 # ✨ Persian font theme
-Persian font theme to give Persian texts better look.
+
+Enhance the appearance of Persian texts with beautiful Persian fonts.
 
 ## 📥 Installation
 
