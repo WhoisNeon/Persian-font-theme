@@ -12,8 +12,12 @@
     <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="">here</a></p>
 </div>
 
-### ✍️ Author 
+### ❤️ Links
 <br/>
-<div align="left">all credits goes to <a href="https://github.com/WhoisNeon">WhoisNeon</a>
-<br/><a href="https://discord.gg/UmtEtYbyT5">Support server</a>
+<div align="left">
+  <a href="https://github.com/WhoisNeon">» Author</a>
+  ・
+  <a href="https://github.com/WhoisNeon/Persian-font-theme/issues">Report an issue</a>
+  ・
+  <a href="https://discord.gg/UmtEtYbyT5">Join the support server</a>
 </div>
