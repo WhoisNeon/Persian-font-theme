@@ -1,0 +1,13 @@
+/**
+ * @name Persian font
+ * @author neonxyz
+ * @description Enhance the appearance of Persian texts with beautiful Persian fonts.
+ * @invite UmtEtYbyT5
+ * @version 1.0
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap");
+
+body {
+  font-family: "Vazirmatn";
+}
