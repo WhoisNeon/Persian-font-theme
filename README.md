@@ -12,8 +12,8 @@
     <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="">here</a></p>
 </div>
 
-## ✍️ Author 
+### ✍️ Author 
 <br/>
-<div align="left">neonxyz
-<a href="https://discord.gg/UmtEtYbyT5">Support server</a>
+<div align="left">all credits goes to <a href="https://github.com/WhoisNeon">WhoisNeon</a>
+<br/><a href="https://discord.gg/UmtEtYbyT5">Support server</a>
 </div>
