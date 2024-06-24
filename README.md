@@ -1,5 +1,5 @@
-# Persian-font-theme
-Persian font theme for Betterdiscord / Vencord.
+# ✨ Persian font theme
+Persian font theme to give Persian texts better look.
 
 ## 📥 Installation
 
