@@ -9,7 +9,7 @@
 <br/>
 <div align="left">
     <b><p align="left">BetterDiscord and Vencord:</b>
-    <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="https://github.com/WhoisNeon/Persian-font-theme/blob/main/Persian%20font.theme.css">here</a></p>
+    <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="https://github.com/WhoisNeon/Persian-font-theme/releases/download/theme/Persian.font.theme.css">here</a></p>
 </div>
 
 <br/>
