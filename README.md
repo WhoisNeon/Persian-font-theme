@@ -14,7 +14,7 @@
 
 <br/>
 <div align="left">
-  <a href="https://github.com/WhoisNeon">» Author</a>
+  <a href="https://github.com/WhoisNeon"><strong>» Author</strong></a>
   ・
   <a href="https://github.com/WhoisNeon/Persian-font-theme/issues">Report an issue</a>
   ・
