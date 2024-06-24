@@ -12,7 +12,6 @@
     <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="">here</a></p>
 </div>
 
-### ❤️ Links
 <br/>
 <div align="left">
   <a href="https://github.com/WhoisNeon">» Author</a>
