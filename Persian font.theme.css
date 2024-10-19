@@ -7,8 +7,11 @@
  * @source https://github.com/WhoisNeon/Persian-font-theme
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap");
+@font-face {
+  font-family: "Vazir-Font";
+  src: url("https://raw.githubusercontent.com/WhoisNeon/Persian-font-theme/refs/heads/main/Vazirmatn-Regular.ttf");
+}
 
-body {
-  font-family: "Vazirmatn";
+* {
+  font-family: "Vazir-Font" !important;
 }
