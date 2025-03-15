@@ -4,14 +4,13 @@
  * @description Enhance the appearance of Persian texts with beautiful Persian fonts.
  * @invite UmtEtYbyT5
  * @version 1.0
- * @source https://github.com/WhoisNeon/Persian-font-theme
 */
 
 @font-face {
-  font-family: "Vazir-Font";
-  src: url("https://raw.githubusercontent.com/WhoisNeon/Persian-font-theme/refs/heads/main/Vazirmatn-Regular.ttf");
+  font-family: "IranSans";
+  src: url("https://raw.githubusercontent.com/WhoisNeon/Persian-font-theme/main/IranSans-Regular.ttf") format("truetype");
 }
 
 * {
-  font-family: "Vazir-Font" !important;
+  font-family: "IranSans", var(--font-primary);
 }
