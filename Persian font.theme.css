@@ -11,6 +11,6 @@
   src: url("https://raw.githubusercontent.com/WhoisNeon/Persian-font-theme/main/IranSans-Regular.ttf") format("truetype");
 }
 
-* {
-  font-family: "IranSans", var(--font-primary);
+*:not(.eyebrow_cf4812) {
+  font-family: "IranSans", var(--font-primary) !important;
 }
